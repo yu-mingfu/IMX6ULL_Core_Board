@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=UART3_TXD Pin=J2-10
+Added Pin To Net: NetName=UART3_TXD Pin=J2-10
+Added Pin To Net: NetName=UART3_TXD Pin=J2-10
+Added Pin To Net: NetName=UART3_RXD Pin=J2-11
+Added Pin To Net: NetName=UART3_RXD Pin=J2-11
+Added Pin To Net: NetName=UART3_RXD Pin=J2-11
+Added Pin To Net: NetName=UART3_CTS Pin=J2-12
+Added Pin To Net: NetName=UART3_CTS Pin=J2-12
+Added Pin To Net: NetName=UART3_CTS Pin=J2-12
+Added Pin To Net: NetName=UART2_RTS Pin=J2-13
+Added Pin To Net: NetName=UART2_RTS Pin=J2-13
+Added Pin To Net: NetName=UART2_RTS Pin=J2-13

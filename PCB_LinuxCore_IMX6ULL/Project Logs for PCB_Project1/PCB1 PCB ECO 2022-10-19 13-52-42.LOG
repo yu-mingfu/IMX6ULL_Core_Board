@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=USB_OTG1_DN New Net Name=USB_OTG1_D_N
+Change Net Name : Old Net Name=USB_OTG1_DP New Net Name=USB_OTG1_D_P
+Change Net Name : Old Net Name=USB_OTG2_DN New Net Name=USB_OTG2_D_N
+Change Net Name : Old Net Name=USB_OTG2_DP New Net Name=USB_OTG2_D_P
+Added Differential Pair: Name=USB_OTG1_D
+Added Differential Pair: Name=USB_OTG2_D

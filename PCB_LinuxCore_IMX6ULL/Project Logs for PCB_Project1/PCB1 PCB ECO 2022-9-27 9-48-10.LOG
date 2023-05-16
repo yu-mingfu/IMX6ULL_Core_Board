@@ -1,0 +1,341 @@
+Removed Pin From Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Removed Pin From Net: NetName=VDD_USB Pin=C?-2
+Removed Pin From Net: NetName=VDD_SNVS_3V3 Pin=D?-1
+Removed Pin From Net: NetName=VDD_SNVS_IN Pin=D?-2
+Removed Pin From Net: NetName=VDD_COIN_3V Pin=R?-1
+Removed Pin From Net: NetName=ZQPAD Pin=R?-2
+Removed Pin From Net: NetName=DCDC_3V3 Pin=TP?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-1
+Added Pin To Net: NetName=DRAM_SDQS0_N Pin=C?-1
+Added Pin To Net: NetName=DRAM_SDQS1_N Pin=C?-1
+Added Pin To Net: NetName=DRAM_VREF Pin=C?-1
+Added Pin To Net: NetName=DRAM_VREF Pin=C?-1
+Added Pin To Net: NetName=DRAM_VREF Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=SD1_VSELECT Pin=C?-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C?-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C?-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C?-1
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C?-1
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Added Pin To Net: NetName=DCDC_1V8 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C?-2
+Added Pin To Net: NetName=DRAM_SDQS0_P Pin=C?-2
+Added Pin To Net: NetName=DRAM_SDQS1_P Pin=C?-2
+Added Pin To Net: NetName=DRAM_VREF Pin=C?-2
+Added Pin To Net: NetName=DRAM_VREF Pin=C?-2
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C?-2
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC6_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NVCC_PLL_OUT Pin=C?-2
+Added Pin To Net: NetName=NVCC_PLL_OUT Pin=C?-2
+Added Pin To Net: NetName=NVCC_SD Pin=C?-2
+Added Pin To Net: NetName=NVCC_SD Pin=C?-2
+Added Pin To Net: NetName=SYS_3V3 Pin=C?-2
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=C?-2
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=C?-2
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C?-2
+Added Pin To Net: NetName=VDD_SNVS_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=C?-2
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C?-2
+Added Pin To Net: NetName=VDD_USB Pin=C?-2
+Added Pin To Net: NetName=VDD_USB Pin=C?-2
+Added Pin To Net: NetName=DCDC_1V8 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=VDD_COIN_3V Pin=D?-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=D?-1
+Added Pin To Net: NetName=NVCC_SD Pin=D?-2
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=D?-2
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=D?-2
+Added Pin To Net: NetName=DRAM_SDCLK0_N Pin=R?-1
+Added Pin To Net: NetName=DRAM_VREF Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=JTAG_MOD Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NVCC_SD Pin=R?-1
+Added Pin To Net: NetName=NVCC_SD Pin=R?-1
+Added Pin To Net: NetName=PMIC_ON_REQ Pin=R?-1
+Added Pin To Net: NetName=SD1_CLK Pin=R?-1
+Added Pin To Net: NetName=SD1_VSELECT Pin=R?-1
+Added Pin To Net: NetName=SD2_CLK Pin=R?-1
+Added Pin To Net: NetName=SD2_CMD Pin=R?-1
+Added Pin To Net: NetName=SYS_3V3 Pin=R?-1
+Added Pin To Net: NetName=VDD_COIN_3V Pin=R?-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=R?-2
+Added Pin To Net: NetName=DRAM_RESET_B Pin=R?-2
+Added Pin To Net: NetName=DRAM_SDCKE0 Pin=R?-2
+Added Pin To Net: NetName=DRAM_SDCKE1 Pin=R?-2
+Added Pin To Net: NetName=DRAM_SDCLK0_P Pin=R?-2
+Added Pin To Net: NetName=DRAM_VREF Pin=R?-2
+Added Pin To Net: NetName=DRAM_ZQ0 Pin=R?-2
+Added Pin To Net: NetName=DRAM_ZQ1 Pin=R?-2
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=R?-2
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NWDOG Pin=R?-2
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Pin To Net: NetName=SD1_CMD Pin=R?-2
+Added Pin To Net: NetName=SD1_DATA0 Pin=R?-2
+Added Pin To Net: NetName=SD2_nRST Pin=R?-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=R?-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=R?-2
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=R?-2
+Added Pin To Net: NetName=ZQPAD Pin=R?-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=TP?-1
+Added Member To Class: ClassName=DDR Member=Component C? 22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 4.7uF
+Added Member To Class: ClassName=DDR Member=Component C? 2.2pF
+Added Member To Class: ClassName=DDR Member=Component C? 2.2pF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 10uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 4.7uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.1uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 4.7uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 4.7uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.1uF
+Added Member To Class: ClassName=Power Member=Component C? 22pF
+Added Member To Class: ClassName=Power Member=Component D? RB521S30
+Added Member To Class: ClassName=Power Member=Component D? RB521S30
+Added Member To Class: ClassName=Power Member=Component D? RB521S-30
+Added Member To Class: ClassName=Power Member=Component D? RB521S-30
+Added Member To Class: ClassName=DDR Member=Component R? 1.5K
+Added Member To Class: ClassName=DDR Member=Component R? 1.5K
+Added Member To Class: ClassName=DDR Member=Component R? 470R
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 240R
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 240R
+Added Member To Class: ClassName=eMMC Member=Component R? 10R
+Added Member To Class: ClassName=eMMC Member=Component R? 10R
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10R
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 1M
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10R
+Added Member To Class: ClassName=Power Member=Component R? 1M
+Added Member To Class: ClassName=Power Member=Component R? 50R
+Added Member To Class: ClassName=Power Member=Component R? 10K
+Added Member To Class: ClassName=Power Member=Component R? 1K
+Added Member To Class: ClassName=Power Member=Component R? 0R
+Added Member To Class: ClassName=Power Member=Component R? 10K
+Added Member To Class: ClassName=Power Member=Component R? 0R
+Added Member To Class: ClassName=Power Member=Component R? 100K
+Added Member To Class: ClassName=Power Member=Component TP? SOC_IN

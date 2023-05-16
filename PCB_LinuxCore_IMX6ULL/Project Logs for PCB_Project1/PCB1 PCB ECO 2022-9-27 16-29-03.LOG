@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Power Member=C2
+Removed Member From Class: ClassName=Power Member=C3
+Removed Member From Class: ClassName=Power Member=C4
+Removed Member From Class: ClassName=Power Member=C6
+Removed Member From Class: ClassName=Power Member=C7
+Removed Member From Class: ClassName=Power Member=R2
+Removed Member From Class: ClassName=Power Member=R3
+Removed Member From Class: ClassName=Power Member=R4
+Removed Member From Class: ClassName=Power Member=R5
+Removed Member From Class: ClassName=Power Member=R6
+Removed Member From Class: ClassName=Power Member=R7
+Removed Member From Class: ClassName=Power Member=R15
+Removed Member From Class: ClassName=Power Member=U1
+Removed Member From Class: ClassName=Power Member=U3
+Added Component: Designator=J1(3710F060046G3FT01)
+Added Component: Designator=J2(3710F060046G3FT01)
+Added Class: Name=Connector
+Added Class: Name=DDR
+Added Member To Class: ClassName=Power Member=Component C91 22uF
+Added Member To Class: ClassName=Power Member=Component D2 RB521S30
+Added Member To Class: ClassName=Power Member=Component R26 1M

@@ -1,0 +1,6 @@
+Added Component: Designator=TP4(TP-1.0)
+Added Component: Designator=TP5(TP-1.0)
+Added Pin To Net: NetName=CLK1_N Pin=TP4-1
+Added Pin To Net: NetName=CLK1_P Pin=TP5-1
+Added Member To Class: ClassName=Imx6ull Member=Component TP4 SOC_IN
+Added Member To Class: ClassName=Imx6ull Member=Component TP5 SOC_IN

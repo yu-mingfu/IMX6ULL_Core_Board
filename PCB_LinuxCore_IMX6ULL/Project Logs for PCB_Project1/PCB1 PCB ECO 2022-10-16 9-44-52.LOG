@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=* NewDesignator=J1
+Added Component: Designator=J2(Stamp_hole)
+Added Component: Designator=J3(Stamp_hole)
+Added Component: Designator=J4(Stamp_hole)
+Added Member To Class: ClassName=Connector Member=Component J2 stamp_hole
+Added Member To Class: ClassName=Connector Member=Component J3 stamp_hole
+Added Member To Class: ClassName=Connector Member=Component J4 stamp_hole

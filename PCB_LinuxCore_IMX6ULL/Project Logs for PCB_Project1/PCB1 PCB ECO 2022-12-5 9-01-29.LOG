@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NVCC_SD Pin=C49-2
+Removed Pin From Net: NetName=NVCC_SD Pin=J4-5
+Removed Pin From Net: NetName=NVCC_SD Pin=J4-5
+Removed Pin From Net: NetName=NVCC_SD Pin=J4-5
+Removed Pin From Net: NetName=NVCC_SD Pin=U2-C4
+Added Pin To Net: NetName=DCDC_3V3 Pin=C49-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C51-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C52-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=U2-C4
+Added Pin To Net: NetName=DCDC_3V3 Pin=U2-L13
+Added Pin To Net: NetName=DCDC_3V3 Pin=U2-M13
+Added Room: Name=Connector
+Added Room: Name=DDR
+Added Room: Name=eMMC
+Added Room: Name=Imx6ull
+Added Room: Name=Power

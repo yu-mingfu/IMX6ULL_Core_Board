@@ -1,0 +1,50 @@
+Added Pin To Net: NetName=JTAG_TMS Pin=J1-16
+Added Pin To Net: NetName=JTAG_TMS Pin=J1-16
+Added Pin To Net: NetName=JTAG_TMS Pin=J1-16
+Added Pin To Net: NetName=JTAG_MOD Pin=J1-17
+Added Pin To Net: NetName=JTAG_MOD Pin=J1-17
+Added Pin To Net: NetName=JTAG_MOD Pin=J1-17
+Added Pin To Net: NetName=JTAG_NTRST Pin=J1-18
+Added Pin To Net: NetName=JTAG_NTRST Pin=J1-18
+Added Pin To Net: NetName=JTAG_NTRST Pin=J1-18
+Added Pin To Net: NetName=JTAG_TCK Pin=J1-19
+Added Pin To Net: NetName=JTAG_TCK Pin=J1-19
+Added Pin To Net: NetName=JTAG_TCK Pin=J1-19
+Added Pin To Net: NetName=JTAG_TDO Pin=J1-20
+Added Pin To Net: NetName=JTAG_TDO Pin=J1-20
+Added Pin To Net: NetName=JTAG_TDO Pin=J1-20
+Added Pin To Net: NetName=JTAG_TDI Pin=J1-21
+Added Pin To Net: NetName=JTAG_TDI Pin=J1-21
+Added Pin To Net: NetName=JTAG_TDI Pin=J1-21
+Added Pin To Net: NetName=NetLabel16 Pin=J1-22
+Added Pin To Net: NetName=NetLabel16 Pin=J1-22
+Added Pin To Net: NetName=NetLabel16 Pin=J1-22
+Added Net: Name=NetLabel16
+Added Pin To Net: NetName=NetLabel17 Pin=J1-23
+Added Pin To Net: NetName=NetLabel17 Pin=J1-23
+Added Pin To Net: NetName=NetLabel17 Pin=J1-23
+Added Net: Name=NetLabel17
+Added Pin To Net: NetName=NetLabel18 Pin=J1-24
+Added Pin To Net: NetName=NetLabel18 Pin=J1-24
+Added Pin To Net: NetName=NetLabel18 Pin=J1-24
+Added Net: Name=NetLabel18
+Added Pin To Net: NetName=NetLabel19 Pin=J1-25
+Added Pin To Net: NetName=NetLabel19 Pin=J1-25
+Added Pin To Net: NetName=NetLabel19 Pin=J1-25
+Added Net: Name=NetLabel19
+Added Pin To Net: NetName=NetLabel20 Pin=J1-26
+Added Pin To Net: NetName=NetLabel20 Pin=J1-26
+Added Pin To Net: NetName=NetLabel20 Pin=J1-26
+Added Net: Name=NetLabel20
+Added Pin To Net: NetName=NetLabel21 Pin=J1-27
+Added Pin To Net: NetName=NetLabel21 Pin=J1-27
+Added Pin To Net: NetName=NetLabel21 Pin=J1-27
+Added Net: Name=NetLabel21
+Added Pin To Net: NetName=NetLabel22 Pin=J1-28
+Added Pin To Net: NetName=NetLabel22 Pin=J1-28
+Added Pin To Net: NetName=NetLabel22 Pin=J1-28
+Added Net: Name=NetLabel22
+Added Pin To Net: NetName=NetLabel23 Pin=J1-29
+Added Pin To Net: NetName=NetLabel23 Pin=J1-29
+Added Pin To Net: NetName=NetLabel23 Pin=J1-29
+Added Net: Name=NetLabel23

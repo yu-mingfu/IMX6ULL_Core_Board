@@ -1,0 +1,268 @@
+Removed Member From Class: ClassName=eMMC Member=U?
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=C?(0402_C)
+Added Component: Designator=R?(0402_R)
+Added Component: Designator=R?(0402_R)
+Added Component: Designator=R?(0402_R)
+Added Component: Designator=R?(0402_R)
+Added Component: Designator=R?(0402_R)
+Added Component: Designator=X?(OSC 3225-4P)
+Added Component: Designator=Y?(OSC 3215-2P)
+Added Pin To Net: NetName=DCDC_3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NVCC_SD Pin=C?-2
+Added Pin To Net: NetName=NVCC_SD Pin=R?-1
+Added Pin To Net: NetName=NVCC_SD Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NVCC_SD Pin=U1-C4
+Added Pin To Net: NetName=DCDC_3V3 Pin=U1-H13
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=U1-L13
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=U1-M13
+Added Pin To Net: NetName=GND Pin=U1-N7
+Added Pin To Net: NetName=PMIC_ON_REQ Pin=U1-T9
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-4
+Added Pin To Net: NetName=BOOT_MODE0 Pin=U1-T10
+Added Net: Name=BOOT_MODE0
+Added Pin To Net: NetName=BOOT_MODE1 Pin=U1-U10
+Added Net: Name=BOOT_MODE1
+Added Pin To Net: NetName=CLK1_N Pin=U1-P16
+Added Net: Name=CLK1_N
+Added Pin To Net: NetName=CLK1_P Pin=U1-P17
+Added Net: Name=CLK1_P
+Added Pin To Net: NetName=GPIO5_IO00 Pin=U1-R10
+Added Net: Name=GPIO5_IO00
+Added Pin To Net: NetName=GPIO5_IO01 Pin=U1-R9
+Added Net: Name=GPIO5_IO01
+Added Pin To Net: NetName=GPIO5_IO02 Pin=U1-P11
+Added Net: Name=GPIO5_IO02
+Added Pin To Net: NetName=GPIO5_IO03 Pin=U1-P10
+Added Net: Name=GPIO5_IO03
+Added Pin To Net: NetName=GPIO5_IO04 Pin=U1-P9
+Added Net: Name=GPIO5_IO04
+Added Pin To Net: NetName=GPIO5_IO05 Pin=U1-N8
+Added Net: Name=GPIO5_IO05
+Added Pin To Net: NetName=GPIO5_IO06 Pin=U1-N11
+Added Net: Name=GPIO5_IO06
+Added Pin To Net: NetName=GPIO5_IO07 Pin=U1-N10
+Added Net: Name=GPIO5_IO07
+Added Pin To Net: NetName=GPIO5_IO08 Pin=U1-N9
+Added Net: Name=GPIO5_IO08
+Added Pin To Net: NetName=GPIO5_IO09 Pin=U1-R6
+Added Net: Name=GPIO5_IO09
+Added Pin To Net: NetName=JTAG_MOD Pin=R?-1
+Added Pin To Net: NetName=JTAG_MOD Pin=U1-P15
+Added Net: Name=JTAG_MOD
+Added Pin To Net: NetName=JTAG_NTRST Pin=U1-N14
+Added Net: Name=JTAG_NTRST
+Added Pin To Net: NetName=JTAG_TCK Pin=U1-M14
+Added Net: Name=JTAG_TCK
+Added Pin To Net: NetName=JTAG_TDI Pin=U1-N16
+Added Net: Name=JTAG_TDI
+Added Pin To Net: NetName=JTAG_TDO Pin=U1-N15
+Added Net: Name=JTAG_TDO
+Added Pin To Net: NetName=JTAG_TMS Pin=U1-P14
+Added Net: Name=JTAG_TMS
+Added Pin To Net: NetName=NUSB_OTG_CHD Pin=U1-U16
+Added Net: Name=NUSB_OTG_CHD
+Added Pin To Net: NetName=ONOFF Pin=U1-R8
+Added Net: Name=ONOFF
+Added Pin To Net: NetName=PMIC_STBY_REQ Pin=U1-U9
+Added Net: Name=PMIC_STBY_REQ
+Added Pin To Net: NetName=POR_B Pin=U1-P8
+Added Net: Name=POR_B
+Added Pin To Net: NetName=SD1_CLK Pin=R?-1
+Added Net: Name=SD1_CLK
+Added Pin To Net: NetName=SD1_CMD Pin=R?-2
+Added Pin To Net: NetName=SD1_CMD Pin=U1-C2
+Added Net: Name=SD1_CMD
+Added Pin To Net: NetName=SD1_DATA0 Pin=R?-2
+Added Pin To Net: NetName=SD1_DATA0 Pin=U1-B3
+Added Net: Name=SD1_DATA0
+Added Pin To Net: NetName=SD1_DATA1 Pin=U1-B2
+Added Net: Name=SD1_DATA1
+Added Pin To Net: NetName=SD1_DATA2 Pin=U1-B1
+Added Net: Name=SD1_DATA2
+Added Pin To Net: NetName=SD1_DATA3 Pin=U1-A2
+Added Net: Name=SD1_DATA3
+Added Pin To Net: NetName=UART1_CTS Pin=U1-K15
+Added Net: Name=UART1_CTS
+Added Pin To Net: NetName=UART1_RTS Pin=U1-J14
+Added Net: Name=UART1_RTS
+Added Pin To Net: NetName=UART1_RXD Pin=U1-K16
+Added Net: Name=UART1_RXD
+Added Pin To Net: NetName=UART1_TXD Pin=U1-K14
+Added Net: Name=UART1_TXD
+Added Pin To Net: NetName=UART2_CTS Pin=U1-J15
+Added Net: Name=UART2_CTS
+Added Pin To Net: NetName=UART2_RTS Pin=U1-H14
+Added Net: Name=UART2_RTS
+Added Pin To Net: NetName=UART2_RXD Pin=U1-J16
+Added Net: Name=UART2_RXD
+Added Pin To Net: NetName=UART2_TXD Pin=U1-J17
+Added Net: Name=UART2_TXD
+Added Pin To Net: NetName=UART3_CTS Pin=U1-H15
+Added Net: Name=UART3_CTS
+Added Pin To Net: NetName=UART3_RTS Pin=U1-G14
+Added Net: Name=UART3_RTS
+Added Pin To Net: NetName=UART3_RXD Pin=U1-H16
+Added Net: Name=UART3_RXD
+Added Pin To Net: NetName=UART3_TXD Pin=U1-H17
+Added Net: Name=UART3_TXD
+Added Pin To Net: NetName=UART4_RXD Pin=U1-G16
+Added Net: Name=UART4_RXD
+Added Pin To Net: NetName=UART4_TXD Pin=U1-G17
+Added Net: Name=UART4_TXD
+Added Pin To Net: NetName=UART5_RXD Pin=U1-G13
+Added Net: Name=UART5_RXD
+Added Pin To Net: NetName=UART5_TXD Pin=U1-F17
+Added Net: Name=UART5_TXD
+Added Pin To Net: NetName=USB_OTG1_DN Pin=U1-T15
+Added Net: Name=USB_OTG1_DN
+Added Pin To Net: NetName=USB_OTG1_DP Pin=U1-U15
+Added Net: Name=USB_OTG1_DP
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=C?-2
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=U1-T12
+Added Net: Name=USB_OTG1_VBUS
+Added Pin To Net: NetName=USB_OTG2_DN Pin=U1-T13
+Added Net: Name=USB_OTG2_DN
+Added Pin To Net: NetName=USB_OTG2_DP Pin=U1-U13
+Added Net: Name=USB_OTG2_DP
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=C?-2
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=U1-U12
+Added Net: Name=USB_OTG2_VBUS
+Added Pin To Net: NetName=VDD_USB Pin=C?-2
+Added Pin To Net: NetName=VDD_USB Pin=C?-2
+Added Pin To Net: NetName=VDD_USB Pin=U1-R12
+Added Net: Name=VDD_USB
+Change Class Name : Old Net Name=eMMC New Net Name=Imx6ull
+Change Class Name : Old Net Name=Imx6ull New Net Name=eMMC
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C? 4.7uF
+Added Member To Class: ClassName=DDR Member=Component C? 2.2pF
+Added Member To Class: ClassName=DDR Member=Component C? 2.2pF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 100nF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.1uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 18pF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=Imx6ull Member=Component C? 0.22uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 4.7uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C? 0.1uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 4.7uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.22uF
+Added Member To Class: ClassName=Power Member=Component C? 4.7uF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 1uF
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Added Member To Class: ClassName=Power Member=Component C? 0.1uF
+Added Member To Class: ClassName=Power Member=Component C? 22pF
+Added Member To Class: ClassName=Power Member=Component C? 22uF
+Added Member To Class: ClassName=Power Member=Component C? 0.01uF
+Added Member To Class: ClassName=Power Member=Component D? RB521S-30
+Added Member To Class: ClassName=Power Member=Component D? RB521S-30
+Added Member To Class: ClassName=DDR Member=Component R? 1.5K
+Added Member To Class: ClassName=DDR Member=Component R? 1.5K
+Added Member To Class: ClassName=DDR Member=Component R? 470R
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 240R
+Added Member To Class: ClassName=DDR Member=Component R? 10K
+Added Member To Class: ClassName=DDR Member=Component R? 240R
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10R
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10K
+Added Member To Class: ClassName=Imx6ull Member=Component R? 1M
+Added Member To Class: ClassName=Imx6ull Member=Component R? 10R
+Added Member To Class: ClassName=eMMC Member=Component R? 10R
+Added Member To Class: ClassName=eMMC Member=Component R? 10R
+Added Member To Class: ClassName=Power Member=Component R? 1K
+Added Member To Class: ClassName=Power Member=Component R? 0R
+Added Member To Class: ClassName=Power Member=Component R? 0R
+Added Member To Class: ClassName=Power Member=Component R? 10K
+Added Member To Class: ClassName=Power Member=Component R? 0R
+Added Member To Class: ClassName=Power Member=Component R? 100K
+Added Member To Class: ClassName=eMMC Member=Component U? FEMDRW008G
+Added Member To Class: ClassName=Imx6ull Member=Component X? 24MHz
+Added Member To Class: ClassName=Imx6ull Member=Component Y? 32.768KHz

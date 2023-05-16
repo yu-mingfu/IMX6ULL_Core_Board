@@ -1,0 +1,351 @@
+Added Pin To Net: NetName=BOOT_MODE0 Pin=*-J1_2
+Added Pin To Net: NetName=BOOT_MODE0 Pin=J2-7
+Added Net: Name=BOOT_MODE0
+Added Pin To Net: NetName=BOOT_MODE1 Pin=*-J1_1
+Added Pin To Net: NetName=BOOT_MODE1 Pin=J2-8
+Added Net: Name=BOOT_MODE1
+Added Pin To Net: NetName=CSI_DATA0 Pin=*-J4_17
+Added Pin To Net: NetName=CSI_DATA0 Pin=J1-56
+Added Net: Name=CSI_DATA0
+Added Pin To Net: NetName=CSI_DATA1 Pin=*-J4_18
+Added Pin To Net: NetName=CSI_DATA1 Pin=J1-57
+Added Net: Name=CSI_DATA1
+Added Pin To Net: NetName=CSI_DATA2 Pin=*-J4_15
+Added Pin To Net: NetName=CSI_DATA2 Pin=J1-3
+Added Net: Name=CSI_DATA2
+Added Pin To Net: NetName=CSI_DATA3 Pin=*-J4_19
+Added Pin To Net: NetName=CSI_DATA3 Pin=J1-59
+Added Net: Name=CSI_DATA3
+Added Pin To Net: NetName=CSI_DATA4 Pin=*-J4_20
+Added Pin To Net: NetName=CSI_DATA4 Pin=J1-55
+Added Net: Name=CSI_DATA4
+Added Pin To Net: NetName=CSI_DATA5 Pin=*-J4_21
+Added Pin To Net: NetName=CSI_DATA5 Pin=J1-6
+Added Net: Name=CSI_DATA5
+Added Pin To Net: NetName=CSI_DATA6 Pin=*-J4_22
+Added Pin To Net: NetName=CSI_DATA6 Pin=J1-4
+Added Net: Name=CSI_DATA6
+Added Pin To Net: NetName=CSI_DATA7 Pin=*-J4_23
+Added Pin To Net: NetName=CSI_DATA7 Pin=J1-58
+Added Net: Name=CSI_DATA7
+Added Pin To Net: NetName=CSI_HSYNC Pin=*-J4_16
+Added Pin To Net: NetName=CSI_HSYNC Pin=J1-1
+Added Net: Name=CSI_HSYNC
+Added Pin To Net: NetName=CSI_MCLK Pin=*-J4_12
+Added Pin To Net: NetName=CSI_MCLK Pin=J1-2
+Added Net: Name=CSI_MCLK
+Added Pin To Net: NetName=CSI_PIXCLK Pin=*-J4_13
+Added Pin To Net: NetName=CSI_PIXCLK Pin=J1-5
+Added Net: Name=CSI_PIXCLK
+Added Pin To Net: NetName=CSI_VSYNC Pin=*-J4_14
+Added Pin To Net: NetName=CSI_VSYNC Pin=J1-60
+Added Net: Name=CSI_VSYNC
+Added Pin To Net: NetName=DC5V Pin=J2-1
+Added Pin To Net: NetName=DC5V Pin=J2-2
+Added Net: Name=DC5V
+Added Pin To Net: NetName=ENET1_CRS_DV Pin=*-J2_16
+Added Pin To Net: NetName=ENET1_CRS_DV Pin=J2-25
+Added Net: Name=ENET1_CRS_DV
+Added Pin To Net: NetName=ENET1_RXD0 Pin=*-J2_19
+Added Pin To Net: NetName=ENET1_RXD0 Pin=J2-26
+Added Net: Name=ENET1_RXD0
+Added Pin To Net: NetName=ENET1_RXD1 Pin=*-J2_17
+Added Pin To Net: NetName=ENET1_RXD1 Pin=J2-24
+Added Net: Name=ENET1_RXD1
+Added Pin To Net: NetName=ENET1_RXER Pin=*-J2_22
+Added Pin To Net: NetName=ENET1_RXER Pin=J2-30
+Added Net: Name=ENET1_RXER
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=*-J2_15
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=J2-29
+Added Net: Name=ENET1_TX_CLK
+Added Pin To Net: NetName=ENET1_TXD0 Pin=*-J2_21
+Added Pin To Net: NetName=ENET1_TXD0 Pin=J2-23
+Added Net: Name=ENET1_TXD0
+Added Pin To Net: NetName=ENET1_TXD1 Pin=*-J2_20
+Added Pin To Net: NetName=ENET1_TXD1 Pin=J2-28
+Added Net: Name=ENET1_TXD1
+Added Pin To Net: NetName=ENET1_TXEN Pin=*-J2_18
+Added Pin To Net: NetName=ENET1_TXEN Pin=J2-27
+Added Net: Name=ENET1_TXEN
+Added Pin To Net: NetName=ENET2_CRS_DV Pin=*-J2_28
+Added Pin To Net: NetName=ENET2_CRS_DV Pin=J1-33
+Added Net: Name=ENET2_CRS_DV
+Added Pin To Net: NetName=ENET2_RXD0 Pin=*-J2_26
+Added Pin To Net: NetName=ENET2_RXD0 Pin=J1-38
+Added Net: Name=ENET2_RXD0
+Added Pin To Net: NetName=ENET2_RXD1 Pin=*-J2_25
+Added Pin To Net: NetName=ENET2_RXD1 Pin=J1-37
+Added Net: Name=ENET2_RXD1
+Added Pin To Net: NetName=ENET2_RXER Pin=*-J2_24
+Added Pin To Net: NetName=ENET2_RXER Pin=J1-34
+Added Net: Name=ENET2_RXER
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=*-J2_23
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=J1-31
+Added Net: Name=ENET2_TX_CLK
+Added Pin To Net: NetName=ENET2_TXD0 Pin=*-J2_29
+Added Pin To Net: NetName=ENET2_TXD0 Pin=J1-36
+Added Net: Name=ENET2_TXD0
+Added Pin To Net: NetName=ENET2_TXD1 Pin=*-J2_30
+Added Pin To Net: NetName=ENET2_TXD1 Pin=J1-35
+Added Net: Name=ENET2_TXD1
+Added Pin To Net: NetName=ENET2_TXEN Pin=*-J2_27
+Added Pin To Net: NetName=ENET2_TXEN Pin=J1-32
+Added Net: Name=ENET2_TXEN
+Added Pin To Net: NetName=ENET_MDC Pin=*-J1_26
+Added Pin To Net: NetName=ENET_MDC Pin=J2-45
+Added Net: Name=ENET_MDC
+Added Pin To Net: NetName=ENET_MDIO Pin=*-J1_27
+Added Pin To Net: NetName=ENET_MDIO Pin=J2-44
+Added Net: Name=ENET_MDIO
+Added Pin To Net: NetName=GND Pin=*-J3_1
+Added Pin To Net: NetName=GND Pin=*-J4_28
+Added Pin To Net: NetName=GND Pin=J2-59
+Added Pin To Net: NetName=GND Pin=J2-60
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO1_IO05 Pin=*-J1_25
+Added Pin To Net: NetName=GPIO1_IO05 Pin=J1-47
+Added Net: Name=GPIO1_IO05
+Added Pin To Net: NetName=GPIO1_IO08 Pin=*-J1_23
+Added Pin To Net: NetName=GPIO1_IO08 Pin=J2-16
+Added Net: Name=GPIO1_IO08
+Added Pin To Net: NetName=JTAG_MOD Pin=*-J1_17
+Added Pin To Net: NetName=JTAG_MOD Pin=J2-22
+Added Net: Name=JTAG_MOD
+Added Pin To Net: NetName=JTAG_nTRST Pin=*-J1_18
+Added Pin To Net: NetName=JTAG_nTRST Pin=J2-21
+Added Net: Name=JTAG_nTRST
+Added Pin To Net: NetName=JTAG_TCK Pin=*-J1_19
+Added Pin To Net: NetName=JTAG_TCK Pin=J2-19
+Added Net: Name=JTAG_TCK
+Added Pin To Net: NetName=JTAG_TDI Pin=*-J1_21
+Added Pin To Net: NetName=JTAG_TDI Pin=J2-17
+Added Net: Name=JTAG_TDI
+Added Pin To Net: NetName=JTAG_TDO Pin=*-J1_20
+Added Pin To Net: NetName=JTAG_TDO Pin=J2-18
+Added Net: Name=JTAG_TDO
+Added Pin To Net: NetName=JTAG_TMS Pin=*-J1_16
+Added Pin To Net: NetName=JTAG_TMS Pin=J2-20
+Added Net: Name=JTAG_TMS
+Added Pin To Net: NetName=LCD_BL Pin=*-J3_30
+Added Net: Name=LCD_BL
+Added Pin To Net: NetName=LCD_DATA0 Pin=*-J3_18
+Added Pin To Net: NetName=LCD_DATA0 Pin=J1-7
+Added Net: Name=LCD_DATA0
+Added Pin To Net: NetName=LCD_DATA1 Pin=*-J3_19
+Added Pin To Net: NetName=LCD_DATA1 Pin=J1-8
+Added Net: Name=LCD_DATA1
+Added Pin To Net: NetName=LCD_DATA2 Pin=*-J3_20
+Added Pin To Net: NetName=LCD_DATA2 Pin=J1-9
+Added Net: Name=LCD_DATA2
+Added Pin To Net: NetName=LCD_DATA3 Pin=*-J3_21
+Added Pin To Net: NetName=LCD_DATA3 Pin=J1-10
+Added Net: Name=LCD_DATA3
+Added Pin To Net: NetName=LCD_DATA4 Pin=*-J3_22
+Added Pin To Net: NetName=LCD_DATA4 Pin=J1-11
+Added Net: Name=LCD_DATA4
+Added Pin To Net: NetName=LCD_DATA5 Pin=*-J3_23
+Added Pin To Net: NetName=LCD_DATA5 Pin=J1-12
+Added Net: Name=LCD_DATA5
+Added Pin To Net: NetName=LCD_DATA6 Pin=*-J3_24
+Added Pin To Net: NetName=LCD_DATA6 Pin=J1-13
+Added Net: Name=LCD_DATA6
+Added Pin To Net: NetName=LCD_DATA7 Pin=*-J3_25
+Added Pin To Net: NetName=LCD_DATA7 Pin=J1-14
+Added Net: Name=LCD_DATA7
+Added Pin To Net: NetName=LCD_DATA8 Pin=*-J3_10
+Added Pin To Net: NetName=LCD_DATA8 Pin=J1-15
+Added Net: Name=LCD_DATA8
+Added Pin To Net: NetName=LCD_DATA9 Pin=*-J3_11
+Added Pin To Net: NetName=LCD_DATA9 Pin=J1-16
+Added Net: Name=LCD_DATA9
+Added Pin To Net: NetName=LCD_DATA10 Pin=*-J3_12
+Added Pin To Net: NetName=LCD_DATA10 Pin=J1-17
+Added Net: Name=LCD_DATA10
+Added Pin To Net: NetName=LCD_DATA11 Pin=*-J3_13
+Added Pin To Net: NetName=LCD_DATA11 Pin=J1-18
+Added Net: Name=LCD_DATA11
+Added Pin To Net: NetName=LCD_DATA12 Pin=*-J3_14
+Added Pin To Net: NetName=LCD_DATA12 Pin=J1-19
+Added Net: Name=LCD_DATA12
+Added Pin To Net: NetName=LCD_DATA13 Pin=*-J3_15
+Added Pin To Net: NetName=LCD_DATA13 Pin=J1-20
+Added Net: Name=LCD_DATA13
+Added Pin To Net: NetName=LCD_DATA14 Pin=*-J3_16
+Added Pin To Net: NetName=LCD_DATA14 Pin=J1-21
+Added Net: Name=LCD_DATA14
+Added Pin To Net: NetName=LCD_DATA15 Pin=*-J3_17
+Added Pin To Net: NetName=LCD_DATA15 Pin=J1-22
+Added Net: Name=LCD_DATA15
+Added Pin To Net: NetName=LCD_DATA16 Pin=*-J3_2
+Added Pin To Net: NetName=LCD_DATA16 Pin=J1-23
+Added Net: Name=LCD_DATA16
+Added Pin To Net: NetName=LCD_DATA17 Pin=*-J3_3
+Added Pin To Net: NetName=LCD_DATA17 Pin=J1-24
+Added Net: Name=LCD_DATA17
+Added Pin To Net: NetName=LCD_DATA18 Pin=*-J3_4
+Added Pin To Net: NetName=LCD_DATA18 Pin=J1-25
+Added Net: Name=LCD_DATA18
+Added Pin To Net: NetName=LCD_DATA19 Pin=*-J3_5
+Added Pin To Net: NetName=LCD_DATA19 Pin=J1-26
+Added Net: Name=LCD_DATA19
+Added Pin To Net: NetName=LCD_DATA20 Pin=*-J3_6
+Added Pin To Net: NetName=LCD_DATA20 Pin=J1-27
+Added Net: Name=LCD_DATA20
+Added Pin To Net: NetName=LCD_DATA21 Pin=*-J3_7
+Added Pin To Net: NetName=LCD_DATA21 Pin=J1-28
+Added Net: Name=LCD_DATA21
+Added Pin To Net: NetName=LCD_DATA22 Pin=*-J3_8
+Added Pin To Net: NetName=LCD_DATA22 Pin=J1-29
+Added Net: Name=LCD_DATA22
+Added Pin To Net: NetName=LCD_DATA23 Pin=*-J3_9
+Added Pin To Net: NetName=LCD_DATA23 Pin=J1-30
+Added Net: Name=LCD_DATA23
+Added Pin To Net: NetName=LCD_DE Pin=*-J3_29
+Added Pin To Net: NetName=LCD_DE Pin=J1-46
+Added Net: Name=LCD_DE
+Added Pin To Net: NetName=LCD_HSYNC Pin=*-J3_27
+Added Pin To Net: NetName=LCD_HSYNC Pin=J1-44
+Added Net: Name=LCD_HSYNC
+Added Pin To Net: NetName=LCD_PCLK Pin=*-J3_26
+Added Pin To Net: NetName=LCD_PCLK Pin=J1-45
+Added Net: Name=LCD_PCLK
+Added Pin To Net: NetName=LCD_VSYNC Pin=*-J3_28
+Added Pin To Net: NetName=LCD_VSYNC Pin=J1-43
+Added Net: Name=LCD_VSYNC
+Added Pin To Net: NetName=ONOFF Pin=*-J4_25
+Added Pin To Net: NetName=ONOFF Pin=J2-4
+Added Net: Name=ONOFF
+Added Pin To Net: NetName=POR_B Pin=*-J4_26
+Added Net: Name=POR_B
+Added Pin To Net: NetName=PWR_ON_EN Pin=*-J4_1
+Added Pin To Net: NetName=PWR_ON_EN Pin=J1-41
+Added Net: Name=PWR_ON_EN
+Added Pin To Net: NetName=RESET Pin=*-J4_2
+Added Pin To Net: NetName=RESET Pin=J1-40
+Added Net: Name=RESET
+Added Pin To Net: NetName=SD1_CLK Pin=*-J4_8
+Added Pin To Net: NetName=SD1_CLK Pin=J1-54
+Added Net: Name=SD1_CLK
+Added Pin To Net: NetName=SD1_CMD Pin=*-J4_9
+Added Pin To Net: NetName=SD1_CMD Pin=J1-53
+Added Net: Name=SD1_CMD
+Added Pin To Net: NetName=SD1_DATA0 Pin=*-J4_7
+Added Pin To Net: NetName=SD1_DATA0 Pin=J1-49
+Added Net: Name=SD1_DATA0
+Added Pin To Net: NetName=SD1_DATA1 Pin=*-J4_6
+Added Pin To Net: NetName=SD1_DATA1 Pin=J1-50
+Added Net: Name=SD1_DATA1
+Added Pin To Net: NetName=SD1_DATA2 Pin=*-J4_11
+Added Pin To Net: NetName=SD1_DATA2 Pin=J1-52
+Added Net: Name=SD1_DATA2
+Added Pin To Net: NetName=SD1_DATA3 Pin=*-J4_10
+Added Pin To Net: NetName=SD1_DATA3 Pin=J1-51
+Added Net: Name=SD1_DATA3
+Added Pin To Net: NetName=SD1_nRST Pin=*-J1_22
+Added Pin To Net: NetName=SD1_nRST Pin=J2-15
+Added Net: Name=SD1_nRST
+Added Pin To Net: NetName=SNVS_TAMPER0 Pin=*-J1_3
+Added Pin To Net: NetName=SNVS_TAMPER0 Pin=J2-6
+Added Pin To Net: NetName=SNVS_TAMPER0 Pin=J2-12
+Added Net: Name=SNVS_TAMPER0
+Added Pin To Net: NetName=SNVS_TAMPER1 Pin=*-J4_30
+Added Pin To Net: NetName=SNVS_TAMPER1 Pin=J2-5
+Added Net: Name=SNVS_TAMPER1
+Added Pin To Net: NetName=SNVS_TAMPER3 Pin=*-J1_6
+Added Net: Name=SNVS_TAMPER3
+Added Pin To Net: NetName=SNVS_TAMPER4 Pin=*-J4_29
+Added Pin To Net: NetName=SNVS_TAMPER4 Pin=J2-3
+Added Net: Name=SNVS_TAMPER4
+Added Pin To Net: NetName=SNVS_TAMPER5 Pin=*-J4_27
+Added Pin To Net: NetName=SNVS_TAMPER5 Pin=J2-11
+Added Net: Name=SNVS_TAMPER5
+Added Pin To Net: NetName=SNVS_TAMPER6 Pin=*-J1_7
+Added Pin To Net: NetName=SNVS_TAMPER6 Pin=J1-39
+Added Net: Name=SNVS_TAMPER6
+Added Pin To Net: NetName=SNVS_TAMPER7 Pin=*-J1_5
+Added Pin To Net: NetName=SNVS_TAMPER7 Pin=J2-10
+Added Net: Name=SNVS_TAMPER7
+Added Pin To Net: NetName=SNVS_TAMPER8 Pin=*-J1_4
+Added Pin To Net: NetName=SNVS_TAMPER8 Pin=J2-9
+Added Net: Name=SNVS_TAMPER8
+Added Pin To Net: NetName=SNVS_TAMPER9 Pin=*-J4_24
+Added Pin To Net: NetName=SNVS_TAMPER9 Pin=J1-48
+Added Net: Name=SNVS_TAMPER9
+Added Pin To Net: NetName=SYS_3V3 Pin=*-J4_3
+Added Pin To Net: NetName=SYS_3V3 Pin=*-J4_4
+Added Pin To Net: NetName=SYS_3V3 Pin=*-J4_5
+Added Net: Name=SYS_3V3
+Added Pin To Net: NetName=UART1_CTS Pin=*-J2_3
+Added Pin To Net: NetName=UART1_CTS Pin=J2-48
+Added Net: Name=UART1_CTS
+Added Pin To Net: NetName=UART1_RTS Pin=*-J2_5
+Added Pin To Net: NetName=UART1_RTS Pin=J2-43
+Added Net: Name=UART1_RTS
+Added Pin To Net: NetName=UART1_RXD Pin=*-J2_2
+Added Pin To Net: NetName=UART1_RXD Pin=J2-46
+Added Net: Name=UART1_RXD
+Added Pin To Net: NetName=UART1_TXD Pin=*-J2_4
+Added Pin To Net: NetName=UART1_TXD Pin=J2-50
+Added Net: Name=UART1_TXD
+Added Pin To Net: NetName=UART2_CTS Pin=*-J2_8
+Added Pin To Net: NetName=UART2_CTS Pin=J2-39
+Added Net: Name=UART2_CTS
+Added Pin To Net: NetName=UART2_RTS Pin=*-J2_9
+Added Pin To Net: NetName=UART2_RTS Pin=J2-40
+Added Net: Name=UART2_RTS
+Added Pin To Net: NetName=UART2_RXD Pin=*-J2_6
+Added Pin To Net: NetName=UART2_RXD Pin=J2-41
+Added Net: Name=UART2_RXD
+Added Pin To Net: NetName=UART2_TXD Pin=*-J2_7
+Added Pin To Net: NetName=UART2_TXD Pin=J2-42
+Added Net: Name=UART2_TXD
+Added Pin To Net: NetName=UART3_CTS Pin=*-J2_12
+Added Pin To Net: NetName=UART3_CTS Pin=J2-36
+Added Net: Name=UART3_CTS
+Added Pin To Net: NetName=UART3_RTS Pin=*-J2_13
+Added Pin To Net: NetName=UART3_RTS Pin=J2-35
+Added Net: Name=UART3_RTS
+Added Pin To Net: NetName=UART3_RXD Pin=*-J2_11
+Added Pin To Net: NetName=UART3_RXD Pin=J2-37
+Added Net: Name=UART3_RXD
+Added Pin To Net: NetName=UART3_TXD Pin=*-J2_10
+Added Pin To Net: NetName=UART3_TXD Pin=J2-38
+Added Net: Name=UART3_TXD
+Added Pin To Net: NetName=USB_OTG1_D_N Pin=*-J1_13
+Added Pin To Net: NetName=USB_OTG1_D_N Pin=J2-53
+Added Net: Name=USB_OTG1_D_N
+Added Pin To Net: NetName=USB_OTG1_D_P Pin=*-J1_14
+Added Pin To Net: NetName=USB_OTG1_D_P Pin=J2-54
+Added Net: Name=USB_OTG1_D_P
+Added Pin To Net: NetName=USB_OTG1_ID Pin=*-J1_15
+Added Pin To Net: NetName=USB_OTG1_ID Pin=J2-51
+Added Net: Name=USB_OTG1_ID
+Added Pin To Net: NetName=USB_OTG1_OC Pin=*-J1_29
+Added Pin To Net: NetName=USB_OTG1_OC Pin=J2-49
+Added Net: Name=USB_OTG1_OC
+Added Pin To Net: NetName=USB_OTG1_PWR Pin=*-J1_24
+Added Pin To Net: NetName=USB_OTG1_PWR Pin=J2-14
+Added Net: Name=USB_OTG1_PWR
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=*-J1_12
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=J2-57
+Added Net: Name=USB_OTG1_VBUS
+Added Pin To Net: NetName=USB_OTG2_D_N Pin=*-J1_9
+Added Pin To Net: NetName=USB_OTG2_D_N Pin=J2-55
+Added Net: Name=USB_OTG2_D_N
+Added Pin To Net: NetName=USB_OTG2_D_P Pin=*-J1_10
+Added Pin To Net: NetName=USB_OTG2_D_P Pin=J2-56
+Added Net: Name=USB_OTG2_D_P
+Added Pin To Net: NetName=USB_OTG2_OC Pin=*-J1_30
+Added Pin To Net: NetName=USB_OTG2_OC Pin=J2-47
+Added Net: Name=USB_OTG2_OC
+Added Pin To Net: NetName=USB_OTG2_PWR Pin=*-J1_28
+Added Pin To Net: NetName=USB_OTG2_PWR Pin=J2-13
+Added Net: Name=USB_OTG2_PWR
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=*-J1_11
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=J2-58
+Added Net: Name=USB_OTG2_VBUS
+Added Pin To Net: NetName=VDD_COIN_3V Pin=*-J2_1
+Added Pin To Net: NetName=VDD_COIN_3V Pin=J1-42
+Added Net: Name=VDD_COIN_3V
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=*-J2_14
+Added Net: Name=VDDA_ADC_3V3

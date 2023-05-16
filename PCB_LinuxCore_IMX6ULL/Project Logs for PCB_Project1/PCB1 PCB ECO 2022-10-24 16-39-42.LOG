@@ -1,0 +1,8 @@
+Added Component: Designator=TP1(TP-1.0)
+Added Pin To Net: NetName=DCDC_3V3 Pin=TP1-1
+Added Member To Class: ClassName=Power Member=Component TP1 SOC_IN
+Added Room: Name=Connector
+Added Room: Name=DDR
+Added Room: Name=eMMC
+Added Room: Name=Imx6ull
+Added Room: Name=Power

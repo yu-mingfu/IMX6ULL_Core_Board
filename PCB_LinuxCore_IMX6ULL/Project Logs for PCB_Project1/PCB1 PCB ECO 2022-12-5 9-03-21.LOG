@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=DCDC_3V3 Pin=R16-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=R17-1
+Added Room: Name=Connector
+Added Room: Name=DDR
+Added Room: Name=eMMC
+Added Room: Name=Imx6ull
+Added Room: Name=Power

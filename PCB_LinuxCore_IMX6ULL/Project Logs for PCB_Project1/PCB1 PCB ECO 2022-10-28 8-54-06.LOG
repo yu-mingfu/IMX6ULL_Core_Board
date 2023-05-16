@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SD2_CLK Pin=R10-2
+Added Pin To Net: NetName=SD2_CMD Pin=R11-2
+Added Pin To Net: NetName=SD2_CMD Pin=U2-C8
+Added Pin To Net: NetName=SD2_CLK Pin=U2-D8

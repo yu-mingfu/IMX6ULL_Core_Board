@@ -1,0 +1,14 @@
+Change Component Comment : Designator=C79 Old Comment=22uF New Comment=4V 22uF
+Change Component Comment : Designator=C88 Old Comment=22uF New Comment=4V 22uF
+Change Component Designator: OldDesignator=PWR1 NewDesignator=PWR
+Change Component Designator: OldDesignator=TP1 NewDesignator=TP_DCDC_3V3
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP_DRAM_1V35
+Change Component Designator: OldDesignator=TP3 NewDesignator=TP_VDD_SOC_IN_1V35
+Change Net Name : Old Net Name=BLT_PWM New Net Name=GPIO1_IO08
+Change Net Name : Old Net Name=NetPWR1_1 New Net Name=NetPWR_1
+Change Net Name : Old Net Name=SD1_VSELECT New Net Name=GPIO1_IO05
+Added Room: Name=Connector
+Added Room: Name=DDR
+Added Room: Name=eMMC
+Added Room: Name=Imx6ull
+Added Room: Name=Power

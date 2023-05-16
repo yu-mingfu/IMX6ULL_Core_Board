@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\PCB1.PcbDoc
+Date     : 2022/11/3
+Time     : 9:00:49
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (4.425mil < 6mil) Between Area Fill (1395mil,-1335mil) (1435mil,-1275mil) on Top Overlay And Text "ON" (1375mil,-1270mil) on Top Overlay Silk Text to Silk Clearance [4.425mil]
+   Violation between Silk To Silk Clearance Constraint: (4.396mil < 6mil) Between Area Fill (700.027mil,830.017mil) (740.027mil,890.017mil) on Top Overlay And Text "ON" (755mil,900mil) on Top Overlay Silk Text to Silk Clearance [4.396mil]
+   Violation between Silk To Silk Clearance Constraint: (1.925mil < 6mil) Between Text "ON" (1375mil,-1270mil) on Top Overlay And Track (1395mil,-1275mil)(1435mil,-1275mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]
+   Violation between Silk To Silk Clearance Constraint: (1.925mil < 6mil) Between Text "ON" (1375mil,-1270mil) on Top Overlay And Track (1395mil,-1415mil)(1395mil,-1275mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]
+   Violation between Silk To Silk Clearance Constraint: (1.925mil < 6mil) Between Text "ON" (755mil,900mil) on Top Overlay And Track (610mil,880mil)(750mil,880mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]
+   Violation between Silk To Silk Clearance Constraint: (1.925mil < 6mil) Between Text "ON" (755mil,900mil) on Top Overlay And Track (750mil,840mil)(750mil,880mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]
+Rule Violations :6
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:02

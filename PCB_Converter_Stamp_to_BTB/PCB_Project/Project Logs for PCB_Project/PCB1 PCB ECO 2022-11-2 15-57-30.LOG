@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SNVS_TAMPER0 Pin=J2-12
+Added Pin To Net: NetName=SNVS_TAMPER2 Pin=J2-12
+Added Net: Name=SNVS_TAMPER2

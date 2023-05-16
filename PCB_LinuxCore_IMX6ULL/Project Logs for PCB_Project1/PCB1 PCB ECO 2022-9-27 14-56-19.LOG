@@ -1,0 +1,922 @@
+Removed Pin From Net: NetName=VDDA_ADC_3V3 Pin=C?-1
+Removed Pin From Net: NetName=VDD_USB Pin=C?-2
+Removed Pin From Net: NetName=VDD_SNVS_3V3 Pin=D?-1
+Removed Pin From Net: NetName=VDD_SNVS_IN Pin=D?-2
+Removed Pin From Net: NetName=VDD_COIN_3V Pin=R?-1
+Removed Pin From Net: NetName=ZQPAD Pin=R?-2
+Removed Pin From Net: NetName=DCDC_3V3 Pin=TP?-1
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=DDR Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=eMMC Member=C?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=DDR Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Removed Member From Class: ClassName=eMMC Member=R?
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=0.22uF
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C? Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C? Old Comment=100nF New Comment=0.1uF
+Change Component Comment : Designator=C? Old Comment=100nF New Comment=0.22uF
+Change Component Designator: OldDesignator=C2 NewDesignator=C60
+Change Component Designator: OldDesignator=C4 NewDesignator=C81
+Change Component Designator: OldDesignator=C6 NewDesignator=C78
+Change Component Designator: OldDesignator=C7 NewDesignator=C80
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=C? NewDesignator=C55
+Change Component Designator: OldDesignator=C? NewDesignator=C56
+Change Component Designator: OldDesignator=C? NewDesignator=C58
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Change Component Designator: OldDesignator=C? NewDesignator=C61
+Change Component Designator: OldDesignator=C? NewDesignator=C62
+Change Component Designator: OldDesignator=C? NewDesignator=C63
+Change Component Designator: OldDesignator=C? NewDesignator=C64
+Change Component Designator: OldDesignator=C? NewDesignator=C65
+Change Component Designator: OldDesignator=C? NewDesignator=C66
+Change Component Designator: OldDesignator=C? NewDesignator=C67
+Change Component Designator: OldDesignator=C? NewDesignator=C68
+Change Component Designator: OldDesignator=C? NewDesignator=C69
+Change Component Designator: OldDesignator=C? NewDesignator=C70
+Change Component Designator: OldDesignator=C? NewDesignator=C71
+Change Component Designator: OldDesignator=C? NewDesignator=C72
+Change Component Designator: OldDesignator=C? NewDesignator=C73
+Change Component Designator: OldDesignator=C? NewDesignator=C74
+Change Component Designator: OldDesignator=C? NewDesignator=C75
+Change Component Designator: OldDesignator=C? NewDesignator=C76
+Change Component Designator: OldDesignator=C? NewDesignator=C77
+Change Component Designator: OldDesignator=C? NewDesignator=C79
+Change Component Designator: OldDesignator=C? NewDesignator=C82
+Change Component Designator: OldDesignator=C? NewDesignator=C83
+Change Component Designator: OldDesignator=C? NewDesignator=C84
+Change Component Designator: OldDesignator=C? NewDesignator=C85
+Change Component Designator: OldDesignator=C? NewDesignator=C86
+Change Component Designator: OldDesignator=C? NewDesignator=C87
+Change Component Designator: OldDesignator=C? NewDesignator=C88
+Change Component Designator: OldDesignator=C? NewDesignator=C89
+Change Component Designator: OldDesignator=C? NewDesignator=C90
+Change Component Designator: OldDesignator=C? NewDesignator=C91
+Change Component Designator: OldDesignator=C? NewDesignator=C92
+Change Component Designator: OldDesignator=C? NewDesignator=C93
+Change Component Designator: OldDesignator=C? NewDesignator=C94
+Change Component Designator: OldDesignator=C? NewDesignator=C95
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=PWR NewDesignator=PWR1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R2 NewDesignator=R24
+Change Component Designator: OldDesignator=R3 NewDesignator=R23
+Change Component Designator: OldDesignator=R4 NewDesignator=R21
+Change Component Designator: OldDesignator=R5 NewDesignator=R28
+Change Component Designator: OldDesignator=R6 NewDesignator=R29
+Change Component Designator: OldDesignator=R7 NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U5
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U7
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U10 NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Added Component: Designator=C46(0603_C _MINI)
+Added Component: Designator=C50(0402_C)
+Added Component: Designator=C53(0402_C)
+Added Component: Designator=C57(0402_C)
+Added Component: Designator=R18(0402_R)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C6-2
+Added Pin To Net: NetName=DRAM_VREF Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C9-2
+Added Pin To Net: NetName=DRAM_VREF Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=DRAM_VREF Pin=C15-2
+Added Pin To Net: NetName=DRAM_1V35 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C23-2
+Added Pin To Net: NetName=DRAM_VREF Pin=C24-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=C25-2
+Added Pin To Net: NetName=DRAM_SDQS0_N Pin=C26-1
+Added Pin To Net: NetName=DRAM_SDQS0_P Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=DRAM_VREF Pin=C27-2
+Added Pin To Net: NetName=DRAM_SDQS1_N Pin=C28-1
+Added Pin To Net: NetName=DRAM_SDQS1_P Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C31-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=EMMC_VDDIM Pin=C38-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=USB_OTG1_VBUS Pin=C45-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=VDD_USB Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=VDD_USB Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=USB_OTG2_VBUS Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=NVCC_SD Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=SD1_CLK Pin=C50-2
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C51-1
+Added Pin To Net: NetName=GND Pin=C51-2
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C52-2
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C53-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C54-1
+Added Pin To Net: NetName=GND Pin=C54-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C55-1
+Added Pin To Net: NetName=GND Pin=C55-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=C56-1
+Added Pin To Net: NetName=GND Pin=C56-2
+Added Pin To Net: NetName=GND Pin=C57-1
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=C57-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C58-1
+Added Pin To Net: NetName=GND Pin=C58-2
+Added Pin To Net: NetName=GND Pin=C59-2
+Added Pin To Net: NetName=GND Pin=C61-1
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C61-2
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C62-2
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=VDD_ARM_CAP Pin=C63-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C64-1
+Added Pin To Net: NetName=GND Pin=C64-2
+Added Pin To Net: NetName=GND Pin=C65-1
+Added Pin To Net: NetName=SYS_3V3 Pin=C65-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C66-1
+Added Pin To Net: NetName=GND Pin=C66-2
+Added Pin To Net: NetName=GND Pin=C67-2
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C68-2
+Added Pin To Net: NetName=GND Pin=C69-1
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C69-2
+Added Pin To Net: NetName=GND Pin=C70-1
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C70-2
+Added Pin To Net: NetName=GND Pin=C71-1
+Added Pin To Net: NetName=VDD_SOC_CAP Pin=C71-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=C72-1
+Added Pin To Net: NetName=GND Pin=C72-2
+Added Pin To Net: NetName=GND Pin=C73-2
+Added Pin To Net: NetName=GND Pin=C74-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C74-2
+Added Pin To Net: NetName=GND Pin=C75-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C75-2
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C76-2
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=VDD_HIGH_CAP Pin=C77-2
+Added Pin To Net: NetName=GND Pin=C79-1
+Added Pin To Net: NetName=NetC6_2 Pin=C79-2
+Added Pin To Net: NetName=GND Pin=C82-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C82-2
+Added Pin To Net: NetName=GND Pin=C83-1
+Added Pin To Net: NetName=VDD_SNVS_CAP Pin=C83-2
+Added Pin To Net: NetName=GND Pin=C84-1
+Added Pin To Net: NetName=NVCC_PLL_OUT Pin=C84-2
+Added Pin To Net: NetName=GND Pin=C85-1
+Added Pin To Net: NetName=NVCC_PLL_OUT Pin=C85-2
+Added Pin To Net: NetName=GND Pin=C86-1
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=C86-2
+Added Pin To Net: NetName=GND Pin=C88-1
+Added Pin To Net: NetName=GND Pin=C89-1
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C91-2
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=DCDC_1V8 Pin=C93-2
+Added Pin To Net: NetName=SD1_VSELECT Pin=C94-1
+Added Pin To Net: NetName=NVCC_SD Pin=C94-2
+Added Pin To Net: NetName=GND Pin=C95-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=C95-2
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=D3-1
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=D3-2
+Added Pin To Net: NetName=VDD_COIN_3V Pin=D4-1
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=D4-2
+Added Pin To Net: NetName=DCDC_1V8 Pin=D5-1
+Added Pin To Net: NetName=NVCC_SD Pin=D5-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=DRAM_ZQ0 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=DRAM_ZQ1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=DRAM_SDCKE1 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=DRAM_SDCKE0 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=DRAM_RESET_B Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=ZQPAD Pin=R6-2
+Added Pin To Net: NetName=DRAM_SDCLK0_N Pin=R7-1
+Added Pin To Net: NetName=DRAM_SDCLK0_P Pin=R7-2
+Added Pin To Net: NetName=DRAM_VREF Pin=R8-1
+Added Pin To Net: NetName=DRAM_1V35 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=DRAM_VREF Pin=R9-2
+Added Pin To Net: NetName=SD2_CLK Pin=R10-1
+Added Pin To Net: NetName=SD2_CMD Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=SD2_nRST Pin=R12-2
+Added Pin To Net: NetName=JTAG_MOD Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=SD1_CLK Pin=R15-1
+Added Pin To Net: NetName=NVCC_SD Pin=R16-1
+Added Pin To Net: NetName=SD1_CMD Pin=R16-2
+Added Pin To Net: NetName=NVCC_SD Pin=R17-1
+Added Pin To Net: NetName=SD1_DATA0 Pin=R17-2
+Added Pin To Net: NetName=ENET1_TX_CLK Pin=R19-2
+Added Pin To Net: NetName=ENET2_TX_CLK Pin=R20-2
+Added Pin To Net: NetName=PMIC_ON_REQ Pin=R22-1
+Added Pin To Net: NetName=RESET Pin=R25-2
+Added Pin To Net: NetName=NWDOG Pin=R26-2
+Added Pin To Net: NetName=VDD_COIN_3V Pin=R30-1
+Added Pin To Net: NetName=VDD_SNVS_IN Pin=R30-2
+Added Pin To Net: NetName=VDD_ARM_SOC_IN Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=SD1_VSELECT Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=SYS_3V3 Pin=R35-1
+Added Pin To Net: NetName=VDD_SNVS_3V3 Pin=R35-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=TP1-1
+Added Pin To Net: NetName=NWDOG Pin=U2-E9
+Change Net Name : Old Net Name=GPIO5_IO00 New Net Name=SNVS_TAMPER0
+Change Net Name : Old Net Name=GPIO5_IO01 New Net Name=SNVS_TAMPER1
+Change Net Name : Old Net Name=GPIO5_IO02 New Net Name=SNVS_TAMPER2
+Change Net Name : Old Net Name=GPIO5_IO03 New Net Name=SNVS_TAMPER3
+Change Net Name : Old Net Name=GPIO5_IO04 New Net Name=SNVS_TAMPER4
+Change Net Name : Old Net Name=GPIO5_IO05 New Net Name=SNVS_TAMPER5
+Change Net Name : Old Net Name=GPIO5_IO06 New Net Name=SNVS_TAMPER6
+Change Net Name : Old Net Name=GPIO5_IO07 New Net Name=SNVS_TAMPER7
+Change Net Name : Old Net Name=GPIO5_IO08 New Net Name=SNVS_TAMPER8
+Change Net Name : Old Net Name=GPIO5_IO09 New Net Name=SNVS_TAMPER9
+Change Net Name : Old Net Name=NetC6_1 New Net Name=NetC78_1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetC78_2
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetL2_2
+Change Net Name : Old Net Name=NetPWR_1 New Net Name=NetPWR1_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR24_1
+Added Pin To Net: NetName=LCD_DE Pin=U2-B8
+Added Net: Name=LCD_DE
+Added Pin To Net: NetName=LCD_HSYNC Pin=U2-D9
+Added Net: Name=LCD_HSYNC
+Added Pin To Net: NetName=LCD_PCLK Pin=R18-1
+Added Net: Name=LCD_PCLK
+Added Pin To Net: NetName=LCD_VSYNC Pin=U2-C9
+Added Net: Name=LCD_VSYNC
+Added Pin To Net: NetName=NetC41_1 Pin=C41-1
+Added Pin To Net: NetName=NetC41_1 Pin=R14-2
+Added Pin To Net: NetName=NetC41_1 Pin=U2-T17
+Added Pin To Net: NetName=NetC41_1 Pin=X1-1
+Added Net: Name=NetC41_1
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=NetC42_1 Pin=R14-1
+Added Pin To Net: NetName=NetC42_1 Pin=U2-T16
+Added Pin To Net: NetName=NetC42_1 Pin=X1-3
+Added Net: Name=NetC42_1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=U2-T11
+Added Pin To Net: NetName=NetC43_2 Pin=Y1-2
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC44_2 Pin=C44-2
+Added Pin To Net: NetName=NetC44_2 Pin=U2-U11
+Added Pin To Net: NetName=NetC44_2 Pin=Y1-1
+Added Net: Name=NetC44_2
+Added Pin To Net: NetName=NetC59_1 Pin=C59-1
+Added Pin To Net: NetName=NetC59_1 Pin=R22-2
+Added Pin To Net: NetName=NetC59_1 Pin=U4-4
+Added Pin To Net: NetName=NetC59_1 Pin=U5-2
+Added Net: Name=NetC59_1
+Added Pin To Net: NetName=NetC67_1 Pin=C67-1
+Added Pin To Net: NetName=NetC67_1 Pin=D1-2
+Added Pin To Net: NetName=NetC67_1 Pin=R25-1
+Added Net: Name=NetC67_1
+Added Pin To Net: NetName=NetC73_1 Pin=C73-1
+Added Pin To Net: NetName=NetC73_1 Pin=D2-2
+Added Pin To Net: NetName=NetC73_1 Pin=R26-1
+Added Net: Name=NetC73_1
+Added Pin To Net: NetName=NetC87_1 Pin=C87-1
+Added Pin To Net: NetName=NetC87_1 Pin=R32-1
+Added Pin To Net: NetName=NetC87_1 Pin=R33-2
+Added Pin To Net: NetName=NetC87_1 Pin=U7-6
+Added Net: Name=NetC87_1
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=NetC87_2 Pin=C88-2
+Added Pin To Net: NetName=NetC87_2 Pin=C89-2
+Added Pin To Net: NetName=NetC87_2 Pin=L2-1
+Added Pin To Net: NetName=NetC87_2 Pin=R31-1
+Added Pin To Net: NetName=NetC87_2 Pin=R32-2
+Added Pin To Net: NetName=NetC87_2 Pin=TP3-1
+Added Net: Name=NetC87_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_1 Pin=U5-3
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U2-D8
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-C8
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U2-C1
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U2-A8
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U2-F14
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U2-D17
+Added Net: Name=NetR20_1
+Added Class: Name=Imx6ull
+Added Member To Class: ClassName=DDR Member=Component C1 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C2 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C3 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C4 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C5 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C6 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C7 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C8 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C9 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C10 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C11 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C12 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C13 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C14 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C15 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C16 22uF
+Added Member To Class: ClassName=DDR Member=Component C17 10uF
+Added Member To Class: ClassName=DDR Member=Component C18 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C19 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C20 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C21 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C22 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C23 0.22uF
+Added Member To Class: ClassName=DDR Member=Component C24 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C25 4.7uF
+Added Member To Class: ClassName=DDR Member=Component C26 2.2pF
+Added Member To Class: ClassName=DDR Member=Component C27 0.1uF
+Added Member To Class: ClassName=DDR Member=Component C28 2.2pF
+Added Member To Class: ClassName=eMMC Member=Component C29 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C30 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C31 4.7uF
+Added Member To Class: ClassName=eMMC Member=Component C32 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C33 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C34 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C35 4.7uF
+Added Member To Class: ClassName=eMMC Member=Component C36 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C37 1uF
+Added Member To Class: ClassName=eMMC Member=Component C38 0.1uF
+Added Member To Class: ClassName=eMMC Member=Component C39 0.22uF
+Added Member To Class: ClassName=Power Member=Component C58 22uF
+Added Member To Class: ClassName=Power Member=Component C59 0.22uF
+Added Member To Class: ClassName=Power Member=Component C61 22uF
+Added Member To Class: ClassName=Power Member=Component C62 0.22uF
+Added Member To Class: ClassName=Power Member=Component C63 0.22uF
+Added Member To Class: ClassName=Power Member=Component C64 4.7uF
+Added Member To Class: ClassName=Power Member=Component C65 0.22uF
+Added Member To Class: ClassName=Power Member=Component C66 0.22uF
+Added Member To Class: ClassName=Power Member=Component C67 0.1uF
+Added Member To Class: ClassName=Power Member=Component C68 22uF
+Added Member To Class: ClassName=Power Member=Component C69 0.22uF
+Added Member To Class: ClassName=Power Member=Component C70 0.22uF
+Added Member To Class: ClassName=Power Member=Component C71 0.22uF
+Added Member To Class: ClassName=Power Member=Component C72 0.22uF
+Added Member To Class: ClassName=Power Member=Component C73 0.22uF
+Added Member To Class: ClassName=Power Member=Component C74 4.7uF
+Added Member To Class: ClassName=Power Member=Component C75 0.22uF
+Added Member To Class: ClassName=Power Member=Component C76 10uF
+Added Member To Class: ClassName=Power Member=Component C77 0.22uF
+Added Member To Class: ClassName=Power Member=Component C79 22uF
+Added Member To Class: ClassName=Power Member=Component C82 22uF
+Added Member To Class: ClassName=Power Member=Component C83 0.22uF
+Added Member To Class: ClassName=Power Member=Component C84 10uF
+Added Member To Class: ClassName=Power Member=Component C85 0.22uF
+Added Member To Class: ClassName=Power Member=Component C86 0.22uF
+Added Member To Class: ClassName=Power Member=Component C87 22pF
+Added Member To Class: ClassName=Power Member=Component C88 22uF
+Added Member To Class: ClassName=Power Member=Component C89 0.1uF
+Added Member To Class: ClassName=Power Member=Component C90 0.01uF
+Added Member To Class: ClassName=Power Member=Component C92 10uF
+Added Member To Class: ClassName=Power Member=Component C93 1uF
+Added Member To Class: ClassName=Power Member=Component C94 1uF
+Added Member To Class: ClassName=Power Member=Component C95 1uF
+Added Member To Class: ClassName=Power Member=Component D1 RB521S30
+Added Member To Class: ClassName=Power Member=Component D3 RB521S-30
+Added Member To Class: ClassName=Power Member=Component D4 RB521S-30
+Added Member To Class: ClassName=Power Member=Component D5 1N5819W
+Added Member To Class: ClassName=DDR Member=Component R1 240R
+Added Member To Class: ClassName=DDR Member=Component R2 240R
+Added Member To Class: ClassName=DDR Member=Component R3 10K
+Added Member To Class: ClassName=DDR Member=Component R4 10K
+Added Member To Class: ClassName=DDR Member=Component R5 10K
+Added Member To Class: ClassName=DDR Member=Component R6 240R
+Added Member To Class: ClassName=DDR Member=Component R7 470R
+Added Member To Class: ClassName=DDR Member=Component R8 1.5K
+Added Member To Class: ClassName=DDR Member=Component R9 1.5K
+Added Member To Class: ClassName=eMMC Member=Component R10 10R
+Added Member To Class: ClassName=eMMC Member=Component R11 10R
+Added Member To Class: ClassName=eMMC Member=Component R12 10K
+Added Member To Class: ClassName=Power Member=Component R22 10K
+Added Member To Class: ClassName=Power Member=Component R25 50R
+Added Member To Class: ClassName=Power Member=Component R30 1K
+Added Member To Class: ClassName=Power Member=Component R31 0R
+Added Member To Class: ClassName=Power Member=Component R32 124K
+Added Member To Class: ClassName=Power Member=Component R33 100K
+Added Member To Class: ClassName=Power Member=Component R34 10K
+Added Member To Class: ClassName=Power Member=Component R35 0R
+Added Member To Class: ClassName=Power Member=Component TP3 SOC_IN

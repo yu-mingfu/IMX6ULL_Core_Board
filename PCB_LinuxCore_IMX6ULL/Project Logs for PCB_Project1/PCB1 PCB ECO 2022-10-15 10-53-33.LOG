@@ -1,0 +1,33 @@
+Added Component: Designator=C92(0603_C _MINI)
+Added Component: Designator=C93(0402_C)
+Added Component: Designator=C94(0402_C)
+Added Component: Designator=D5(SOD-523)
+Added Component: Designator=Q1(SOT23-3L)
+Added Component: Designator=R34(0402_R)
+Added Component: Designator=TP1(TP-1.0)
+Added Component: Designator=U8(SOT23-3L)
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=DCDC_3V3 Pin=C92-2
+Added Pin To Net: NetName=GND Pin=C93-1
+Added Pin To Net: NetName=DCDC_1V8 Pin=C93-2
+Added Pin To Net: NetName=SD1_VSELECT Pin=C94-1
+Added Pin To Net: NetName=NVCC_SD Pin=C94-2
+Added Pin To Net: NetName=DCDC_1V8 Pin=D5-1
+Added Pin To Net: NetName=NVCC_SD Pin=D5-2
+Added Pin To Net: NetName=SD1_VSELECT Pin=Q1-1
+Added Pin To Net: NetName=NVCC_SD Pin=Q1-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=Q1-3
+Added Pin To Net: NetName=SD1_VSELECT Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=DCDC_1V8 Pin=U8-2
+Added Pin To Net: NetName=DCDC_3V3 Pin=U8-3
+Added Member To Class: ClassName=Power Member=Component C92 10uF
+Added Member To Class: ClassName=Power Member=Component C93 1uF
+Added Member To Class: ClassName=Power Member=Component C94 1uF
+Added Member To Class: ClassName=Power Member=Component D5 1N5819W
+Added Member To Class: ClassName=Power Member=Component Q1 WST3325
+Added Member To Class: ClassName=Power Member=Component R34 10K
+Added Member To Class: ClassName=Power Member=Component TP1 SOC_IN
+Added Member To Class: ClassName=Power Member=Component U8 RT9166-18GVL

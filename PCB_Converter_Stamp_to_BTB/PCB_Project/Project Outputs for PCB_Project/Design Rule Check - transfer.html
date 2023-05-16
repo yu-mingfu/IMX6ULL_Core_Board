@@ -1,0 +1,346 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 8em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://D:\Project_Files\AltiumDesigner_Files\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">2022/11/3</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">9:03:54</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:01</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc" class="file"><acronym title="E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc">E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">6</td></tr>
+</table>
+</td>
+</table><a name="IDRDBXTPGVXNHMBYP12SJEJOMQGMOHAOUEULKHHKOFLA4VJNBW1FU"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDZ4NBAMJBODGYPKT0VCJNIITOHOXR3NBLTRGNGLLN04W0E2AJHTFD">Clearance Constraint (Gap=10mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDU5OCZ1VMYHZLPUDRPIOPVAW5VHI2IDE1KAOYFQCZFJBA2GBQRAKI">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#ID3EACHMEOAECTHVYHQUSXMIXVGPR0H5NSV5R5S1MXCEXIA35UEE4I">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID2GYZMJFU1OIUEPMSTK05X0KJKJSMU4IAYMW0EKJC1RYGEBYBHWQG">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDGS3SWA41VVJFEL0IRGO3KHKMRKKUYAWQSCILCTLYXI1A3D14IHPB">Width Constraint (Min=10mil) (Max=50mil) (Preferred=10mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID1FPAVY1DJJFFMZZD04R51REU2CGI5XE3YOAPEY1SPES110JFYDO">Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDDOOHMO5HSWWMDW2TVAEIJQSNULEYTUW0W0WPNFL1IDHPQBJ03IJF">Hole Size Constraint (Min=1mil) (Max=100mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDLTQ0ZHOG3CGXLCU2PKYCPYDVUKYA0HUXFBEI35L0CAVXMBKLOTL">Hole To Hole Clearance (Gap=6mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDFQJVYYIN35U2NVDQ3SCR4AC3PFJWL41XUUS2YTFCNUVQNSLHY5PB">Minimum Solder Mask Sliver (Gap=6mil) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDOIBDLGHFZP0MLMBDFIR34031EIEEHYKUQ2DN1EJHZL425AB0JCRE">Silk To Solder Mask (Clearance=6mil) (IsPad),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDWFEQ0Y4IVQLZLYJTUPQAEM5O5BIE1I5BDPXDVEPUOIDMD5WWNKRD">Silk to Silk (Clearance=6mil) (All),(All)</a></td>
+<td class="column2">6</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDTA4P1MJOCU4VOBEMZFNPMHYLRPLTABQ5TF3JNKPW5YE0BLJB5DCB">Net Antennae (Tolerance=0mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDN203SVJ40QMRPQWJAHQIT2DCSHV55JVVADVH0RP1QPM1AEVMLMEB">Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">6</td>
+</tr>
+</table><br><a name="IDWFEQ0Y4IVQLZLYJTUPQAEM5O5BIE1I5BDPXDVEPUOIDMD5WWNKRD"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Silk to Silk (Clearance=6mil) (All),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.886mil|Location2.X=5248.136mil|Location1.Y=2251.064mil|Location2.Y=2258.314mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.886mil|Location2.X=5248.136mil|Location1.Y=2251.064mil|Location2.Y=2258.314mil|Absolute=True">Silk To Silk Clearance Constraint: (4.425mil &lt; 6mil) Between Area Fill (1395mil,-1335mil) (1435mil,-1275mil) on Top Overlay And Text "ON" (1375mil,-1270mil) on Top Overlay Silk Text to Silk Clearance [4.425mil]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4598.242mil|Location2.X=4605.492mil|Location1.Y=4404.006mil|Location2.Y=4411.256mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4598.242mil|Location2.X=4605.492mil|Location1.Y=4404.006mil|Location2.Y=4411.256mil|Absolute=True">Silk To Silk Clearance Constraint: (4.396mil &lt; 6mil) Between Area Fill (700.028mil,830.017mil) (740.028mil,890.017mil) on Top Overlay And Text "ON" (755mil,900mil) on Top Overlay Silk Text to Silk Clearance [4.396mil]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.811mil|Location2.X=5248.061mil|Location1.Y=2252.311mil|Location2.Y=2259.561mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.811mil|Location2.X=5248.061mil|Location1.Y=2252.311mil|Location2.Y=2259.561mil|Absolute=True">Silk To Silk Clearance Constraint: (1.925mil &lt; 6mil) Between Text "ON" (1375mil,-1270mil) on Top Overlay And Track (1395mil,-1275mil)(1435mil,-1275mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.811mil|Location2.X=5248.061mil|Location1.Y=2252.311mil|Location2.Y=2259.561mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=5240.811mil|Location2.X=5248.061mil|Location1.Y=2252.311mil|Location2.Y=2259.561mil|Absolute=True">Silk To Silk Clearance Constraint: (1.925mil &lt; 6mil) Between Text "ON" (1375mil,-1270mil) on Top Overlay And Track (1395mil,-1415mil)(1395mil,-1275mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4599.476mil|Location2.X=4606.726mil|Location1.Y=4404.065mil|Location2.Y=4411.315mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4599.476mil|Location2.X=4606.726mil|Location1.Y=4404.065mil|Location2.Y=4411.315mil|Absolute=True">Silk To Silk Clearance Constraint: (1.925mil &lt; 6mil) Between Text "ON" (755mil,900mil) on Top Overlay And Track (610mil,880mil)(750mil,880mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4599.476mil|Location2.X=4606.726mil|Location1.Y=4404.065mil|Location2.Y=4411.315mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=E:\AltiumDesigner\Projects\Linux_Core\PCB_Converter_Stamp_to_BTB\PCB_Project\transfer.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4599.476mil|Location2.X=4606.726mil|Location1.Y=4404.065mil|Location2.Y=4411.315mil|Absolute=True">Silk To Silk Clearance Constraint: (1.925mil &lt; 6mil) Between Text "ON" (755mil,900mil) on Top Overlay And Track (750mil,840mil)(750mil,880mil) on Top Overlay Silk Text to Silk Clearance [1.925mil]</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

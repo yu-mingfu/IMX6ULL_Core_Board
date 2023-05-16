@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SYS_3V3 Pin=*-J2_14
+Removed Pin From Net: NetName=SYS_3V3 Pin=*-J4_5
+Added Component: Designator=SW1(CSW DIP-1P)
+Add component (AddParameter): Name = "BOM名称"; Value = "1路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(CSW DIP-1P)
+Add component (AddParameter): Name = "BOM名称"; Value = "1路编码开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYS_3V3 Pin=SW1-1
+Added Pin To Net: NetName=SYS_3V3 Pin=SW2-1
+Added Pin To Net: NetName=Net*_J4_5 Pin=*-J4_5
+Added Pin To Net: NetName=Net*_J4_5 Pin=SW1-2
+Added Net: Name=Net*_J4_5
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=*-J2_14
+Added Pin To Net: NetName=VDDA_ADC_3V3 Pin=SW2-2
+Added Net: Name=VDDA_ADC_3V3
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 CSW-1P
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 CSW-1P
